@@ -1,2 +1,1 @@
-# DockerMC
-Segédlet
+# dockermc
