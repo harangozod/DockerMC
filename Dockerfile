@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER sutiszornyeteg
+MAINTAINER harangozod
 
 RUN apt-get -y update \
  && apt-get -y upgrade \
